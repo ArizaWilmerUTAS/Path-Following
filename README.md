@@ -7,6 +7,7 @@ B) A Matlab script that implements in script version of the simulink file.
 This code is based in the work of [Fossen and Breivik](http://www.fossen.biz/home/papers/FossenBreivikSkjetneMCMC03.pdf)
 and the work of [Xiang and et al.](https://www.sciencedirect.com/science/article/pii/S0305054816302374)
 
+The model of the remus 100 employed on this study is from [Prestero](https://core.ac.uk/download/pdf/4429735.pdf).
 
 ## Getting Started
 
