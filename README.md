@@ -1,5 +1,4 @@
-# Path-Following
-Matlab/Simulink implementation of Path Following for a REMUS 100
+# Matlab/Simulink implementation of Path Following for a REMUS 100
 
 There is two seption of this implementation:
 A) A simulink file that contains a REMUS 100 model, LOS law implementation and robust PID controller
@@ -17,6 +16,9 @@ To run the Matlab Script add the content of the folder to the Matlab path and ru
 
 
 
+## Referencing
+
+If you wish to reference this code please cite:
 
 
 
