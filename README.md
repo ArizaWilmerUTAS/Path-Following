@@ -13,7 +13,7 @@ The model of the remus 100 employed on this study is from [Prestero](https://cor
 
 To run the simulink model please use MATLAB 2018b or superior.
 
-To run the Matlab Script add the content of the folder to the Matlab path and run the file.
+To run the Matlab Script add the content of the folder to the Matlab path and run the file SimulatorFileRemusPID.m.
 
 
 
