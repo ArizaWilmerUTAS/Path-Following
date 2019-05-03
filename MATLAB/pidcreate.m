@@ -1,4 +1,16 @@
+%% Create a PID with the respective variables
+% Inputs:
+%   Kp= Proportional value
+%   Kd= Derivative value
+%   Ki= integraal value
+%   Ts= sample time
+%   UPPER_limit= max value
+%   LOWER_limit=min value
+%   simulation_time
+% Output
+%  PIDstrucure
 function name=pidcreate(Kp,Kd,Ki,Ts,UPPER_limit,LOWER_limit,simulation_time)
+
 name.PID=1;
 name.Kp=Kp;                              % proportional controller gain
 name.Kd=Kd;                               % derivative controller gain
