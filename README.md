@@ -10,7 +10,7 @@ and the work of [Xiang and et al.](https://www.sciencedirect.com/science/article
 The model of the remus 100 employed on this study is from [Prestero](https://core.ac.uk/download/pdf/4429735.pdf).
 
 <p align="center">
-  <img src="https://github.com/ArizaWilmerUTAS/Path-Following/remus100.jpg" width="350" title="hover text">
+  <img src="remus100.jpg" width="350" title="hover text">
   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
 
