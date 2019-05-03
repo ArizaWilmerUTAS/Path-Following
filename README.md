@@ -9,6 +9,8 @@ and the work of [Xiang and et al.](https://www.sciencedirect.com/science/article
 
 The model of the remus 100 employed on this study is from [Prestero](https://core.ac.uk/download/pdf/4429735.pdf).
 
+[[https://github.com/ArizaWilmerUTAS/Path-Following/sample.png|alt=sample]]
+
 ## Getting Started
 
 To run the simulink model please use MATLAB 2018b or superior.
