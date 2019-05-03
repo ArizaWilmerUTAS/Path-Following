@@ -1,6 +1,20 @@
 function [RPM,Rudderangle,elevatorangle,PIDu,PIDelevator,PIDrudder]=LOSPID(chi_vehicle,...
     upsilon_vehicle,upsilon_desire,chi_desire,ud,position,velocity,...
     PIDu,PIDelevator,PIDrudder)
+%% Calculate PID value
+% Input
+%  chi_vehicle=angle vehicle from LOS
+%  upsilon_vehicle=angle vehicle from LOS
+%  upsilon_desire=angle point from LOS
+%  chi_desire=angle point from LOS
+%  ud= desire vehicle velocity
+%  position=vehicle position
+%  velocity=vehicle velocity
+%  PIDu,PIDelevator,PIDrudder= PID for each surface
+% Output
+%  RPM=propeller RPM,
+%  Rudderangle=rudder force
+%  elevatorangle=elevator force
 phi=position(4);
 theta=position(5);
 psi=position(6);

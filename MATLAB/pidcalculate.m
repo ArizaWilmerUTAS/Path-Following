@@ -1,4 +1,5 @@
 function pid=pidcalculate(pid,error)
+% calculate PID
 if pid.counter==0
     pid.error = error;
     pid.integral = double(pid.integral + (pid.error*pid.iteration_time));
