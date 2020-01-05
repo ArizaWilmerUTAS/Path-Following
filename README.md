@@ -30,7 +30,7 @@ To run the Matlab Script add the content of the folder to the Matlab path and ru
 
 If you wish to reference this code please cite:
 
-
+W. Ariza Ramirez, Gaussian Processes applied to system identification, navigation and control of underwater vehicles, PhD Thesis, Australian Maritime College 2019
 
 ## Author
 
